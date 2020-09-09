@@ -1,0 +1,146 @@
+
+skeleton.png
+size: 892,278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donutDeathAnimation-1
+  rotate: false
+  xy: 643, 34
+  size: 90, 115
+  orig: 138, 229
+  offset: 25, 45
+  index: -1
+donutDeathAnimation-10
+  rotate: false
+  xy: 658, 171
+  size: 105, 105
+  orig: 138, 229
+  offset: 13, 55
+  index: -1
+donutDeathAnimation-11
+  rotate: true
+  xy: 2, 2
+  size: 123, 116
+  orig: 138, 229
+  offset: 4, 52
+  index: -1
+donutDeathAnimation-12
+  rotate: true
+  xy: 539, 151
+  size: 125, 117
+  orig: 138, 229
+  offset: 6, 54
+  index: -1
+donutDeathAnimation-13
+  rotate: false
+  xy: 120, 4
+  size: 132, 121
+  orig: 138, 229
+  offset: 4, 51
+  index: -1
+donutDeathAnimation-14
+  rotate: true
+  xy: 254, 2
+  size: 134, 126
+  orig: 138, 229
+  offset: 3, 49
+  index: -1
+donutDeathAnimation-15
+  rotate: true
+  xy: 382, 5
+  size: 132, 131
+  orig: 138, 229
+  offset: 3, 49
+  index: -1
+donutDeathAnimation-16
+  rotate: true
+  xy: 406, 139
+  size: 137, 131
+  orig: 138, 229
+  offset: 0, 49
+  index: -1
+donutDeathAnimation-17
+  rotate: true
+  xy: 140, 138
+  size: 138, 130
+  orig: 138, 229
+  offset: 0, 49
+  index: -1
+donutDeathAnimation-18
+  rotate: true
+  xy: 272, 139
+  size: 137, 132
+  orig: 138, 229
+  offset: 1, 48
+  index: -1
+donutDeathAnimation-19
+  rotate: false
+  xy: 2, 127
+  size: 136, 149
+  orig: 138, 229
+  offset: 2, 48
+  index: -1
+donutDeathAnimation-2
+  rotate: false
+  xy: 833, 123
+  size: 52, 74
+  orig: 138, 229
+  offset: 41, 63
+  index: -1
+donutDeathAnimation-20
+  rotate: true
+  xy: 515, 6
+  size: 131, 126
+  orig: 138, 229
+  offset: 4, 49
+  index: -1
+donutDeathAnimation-3
+  rotate: false
+  xy: 797, 11
+  size: 36, 57
+  orig: 138, 229
+  offset: 48, 71
+  index: -1
+donutDeathAnimation-4
+  rotate: true
+  xy: 643, 4
+  size: 28, 27
+  orig: 138, 229
+  offset: 51, 89
+  index: -1
+donutDeathAnimation-5
+  rotate: true
+  xy: 833, 83
+  size: 38, 36
+  orig: 138, 229
+  offset: 47, 84
+  index: -1
+donutDeathAnimation-6
+  rotate: true
+  xy: 838, 223
+  size: 53, 52
+  orig: 138, 229
+  offset: 38, 75
+  index: -1
+donutDeathAnimation-7
+  rotate: true
+  xy: 735, 5
+  size: 63, 60
+  orig: 138, 229
+  offset: 33, 71
+  index: -1
+donutDeathAnimation-8
+  rotate: true
+  xy: 765, 199
+  size: 77, 71
+  orig: 138, 229
+  offset: 28, 67
+  index: -1
+donutDeathAnimation-9
+  rotate: true
+  xy: 735, 70
+  size: 99, 96
+  orig: 138, 229
+  offset: 15, 58
+  index: -1

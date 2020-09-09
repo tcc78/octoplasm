@@ -1,0 +1,230 @@
+
+skeleton.png
+size: 1317,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back1
+  rotate: true
+  xy: 393, 5
+  size: 27, 48
+  orig: 80, 155
+  offset: 7, 38
+  index: -1
+back2
+  rotate: true
+  xy: 233, 10
+  size: 17, 78
+  orig: 80, 155
+  offset: 42, 8
+  index: -1
+back3
+  rotate: true
+  xy: 443, 5
+  size: 27, 43
+  orig: 80, 155
+  offset: 50, 33
+  index: -1
+explosion-head1
+  rotate: false
+  xy: 1231, 169
+  size: 80, 87
+  orig: 306, 306
+  offset: 113, 135
+  index: -1
+explosion-head2
+  rotate: false
+  xy: 915, 16
+  size: 117, 60
+  orig: 306, 306
+  offset: 92, 135
+  index: -1
+explosion1
+  rotate: false
+  xy: 2, 11
+  size: 229, 204
+  orig: 306, 306
+  offset: 36, 51
+  index: -1
+explosion2
+  rotate: true
+  xy: 484, 244
+  size: 277, 242
+  orig: 306, 306
+  offset: 0, 36
+  index: -1
+explosion3
+  rotate: true
+  xy: 728, 254
+  size: 267, 251
+  orig: 306, 306
+  offset: 9, 32
+  index: -1
+explosion4
+  rotate: false
+  xy: 589, 11
+  size: 229, 231
+  orig: 306, 306
+  offset: 43, 41
+  index: -1
+explosion5
+  rotate: true
+  xy: 981, 269
+  size: 252, 260
+  orig: 306, 306
+  offset: 30, 22
+  index: -1
+explosion6
+  rotate: false
+  xy: 183, 219
+  size: 299, 302
+  orig: 306, 306
+  offset: 7, 4
+  index: -1
+explosion7
+  rotate: false
+  xy: 2, 217
+  size: 179, 304
+  orig: 306, 306
+  offset: 75, 0
+  index: -1
+fightWin-1
+  rotate: false
+  xy: 2, 8
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fightWin-10
+  rotate: false
+  xy: 233, 29
+  size: 119, 188
+  orig: 195, 273
+  offset: 40, 46
+  index: -1
+fightWin-11
+  rotate: false
+  xy: 465, 38
+  size: 122, 179
+  orig: 195, 273
+  offset: 39, 43
+  index: -1
+fightWin-12
+  rotate: false
+  xy: 947, 79
+  size: 125, 173
+  orig: 195, 273
+  offset: 38, 41
+  index: -1
+fightWin-13
+  rotate: false
+  xy: 820, 78
+  size: 125, 174
+  orig: 195, 273
+  offset: 38, 40
+  index: -1
+fightWin-14
+  rotate: true
+  xy: 1074, 185
+  size: 82, 155
+  orig: 195, 273
+  offset: 61, 59
+  index: -1
+fightWin-2
+  rotate: true
+  xy: 1176, 105
+  size: 78, 46
+  orig: 195, 273
+  offset: 61, 220
+  index: -1
+fightWin-3
+  rotate: false
+  xy: 820, 9
+  size: 53, 67
+  orig: 195, 273
+  offset: 92, 183
+  index: -1
+fightWin-4
+  rotate: true
+  xy: 1243, 258
+  size: 60, 68
+  orig: 195, 273
+  offset: 82, 133
+  index: -1
+fightWin-5
+  rotate: false
+  xy: 1257, 112
+  size: 56, 55
+  orig: 195, 273
+  offset: 53, 131
+  index: -1
+fightWin-6
+  rotate: false
+  xy: 1243, 320
+  size: 69, 58
+  orig: 195, 273
+  offset: 44, 150
+  index: -1
+fightWin-7
+  rotate: false
+  xy: 1176, 4
+  size: 79, 99
+  orig: 195, 273
+  offset: 43, 124
+  index: -1
+fightWin-8
+  rotate: false
+  xy: 1074, 14
+  size: 100, 169
+  orig: 195, 273
+  offset: 50, 61
+  index: -1
+fightWin-9
+  rotate: false
+  xy: 354, 34
+  size: 109, 183
+  orig: 195, 273
+  offset: 45, 53
+  index: -1
+front1
+  rotate: false
+  xy: 488, 2
+  size: 32, 34
+  orig: 80, 155
+  offset: 0, 52
+  index: -1
+front2
+  rotate: false
+  xy: 875, 9
+  size: 38, 67
+  orig: 80, 155
+  offset: 0, 17
+  index: -1
+front3
+  rotate: false
+  xy: 1257, 30
+  size: 37, 80
+  orig: 80, 155
+  offset: 7, 0
+  index: -1
+front4
+  rotate: true
+  xy: 1243, 380
+  size: 43, 71
+  orig: 80, 155
+  offset: 36, 15
+  index: -1
+front5
+  rotate: true
+  xy: 354, 3
+  size: 29, 37
+  orig: 80, 155
+  offset: 51, 50
+  index: -1
+head
+  rotate: false
+  xy: 1243, 425
+  size: 72, 96
+  orig: 80, 155
+  offset: 4, 59
+  index: -1

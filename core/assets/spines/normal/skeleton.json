@@ -1,0 +1,504 @@
+{
+"skeleton": {
+	"hash": "PhSZEXDA7RM57k8uy/iAg6FdvjE",
+	"spine": "3.8.95",
+	"x": -69,
+	"y": -52.66,
+	"width": 138,
+	"height": 229,
+	"images": "./basicImages/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "core", "parent": "root", "length": 80.75, "rotation": -0.46, "x": -26.29, "y": -115.92 },
+	{ "name": "body", "parent": "core", "length": 57.5, "rotation": 91.1, "x": 25.57, "y": 115.2 },
+	{ "name": "cloud", "parent": "core", "length": 56.22, "rotation": -88.22, "x": 138.1, "y": 180.05 }
+],
+"slots": [
+	{ "name": "normalDeathAnimation--10", "bone": "cloud", "attachment": "normalDeathAnimation--10" },
+	{ "name": "normalDeathAnimation--11", "bone": "cloud", "attachment": "normalDeathAnimation--11" },
+	{ "name": "normalDeathAnimation--12", "bone": "cloud", "attachment": "normalDeathAnimation--12" },
+	{ "name": "normalDeathAnimation--13", "bone": "cloud", "attachment": "normalDeathAnimation--13" },
+	{ "name": "normalDeathAnimation--14", "bone": "cloud", "attachment": "normalDeathAnimation--14" },
+	{ "name": "normalDeathAnimation--15", "bone": "cloud", "attachment": "normalDeathAnimation--15" },
+	{ "name": "normalDeathAnimation--16", "bone": "cloud", "attachment": "normalDeathAnimation--16" },
+	{ "name": "normalDeathAnimation--17", "bone": "cloud", "attachment": "normalDeathAnimation--17" },
+	{ "name": "normalDeathAnimation--18", "bone": "cloud", "attachment": "normalDeathAnimation--18" },
+	{ "name": "normalDeathAnimation--19", "bone": "cloud", "attachment": "normalDeathAnimation--19" },
+	{ "name": "normalDeathAnimation--2", "bone": "body", "attachment": "normalDeathAnimation--2" },
+	{ "name": "normalDeathAnimation--20", "bone": "cloud", "attachment": "normalDeathAnimation--20" },
+	{ "name": "normalDeathAnimation--3", "bone": "body", "attachment": "normalDeathAnimation--3" },
+	{ "name": "normalDeathAnimation--4", "bone": "cloud", "attachment": "normalDeathAnimation--4" },
+	{ "name": "normalDeathAnimation--5", "bone": "cloud", "attachment": "normalDeathAnimation--5" },
+	{ "name": "normalDeathAnimation--6", "bone": "cloud", "attachment": "normalDeathAnimation--6" },
+	{ "name": "normalDeathAnimation--7", "bone": "cloud", "attachment": "normalDeathAnimation--7" },
+	{ "name": "normalDeathAnimation--8", "bone": "cloud", "attachment": "normalDeathAnimation--8" },
+	{ "name": "normalDeathAnimation--9", "bone": "cloud", "attachment": "normalDeathAnimation--9" },
+	{ "name": "normalDeathAnimation--1", "bone": "body", "attachment": "normalDeathAnimation--1" }
+],
+  "skins": {
+    
+    "default": {
+      "normalDeathAnimation--1": {
+        "normalDeathAnimation--1": {
+          "x": 32.77,
+          "y": -0.18,
+          "rotation": -90.64,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "normalDeathAnimation--2": {
+        "normalDeathAnimation--2": {
+          "x": 32.77,
+          "y": -0.18,
+          "rotation": -90.64,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "normalDeathAnimation--3": {
+        "normalDeathAnimation--3": {
+          "x": 32.77,
+          "y": -0.18,
+          "rotation": -90.64,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "normalDeathAnimation--4": {
+        "normalDeathAnimation--4": {
+          "x": 28.57,
+          "y": -113.93,
+          "rotation": 88.68,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "normalDeathAnimation--5": {
+        "normalDeathAnimation--5": {
+          "x": 28.57,
+          "y": -113.93,
+          "rotation": 88.68,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "normalDeathAnimation--6": {
+        "normalDeathAnimation--6": {
+          "x": 28.57,
+          "y": -113.93,
+          "rotation": 88.68,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "normalDeathAnimation--7": {
+        "normalDeathAnimation--7": {
+          "x": 28.57,
+          "y": -113.93,
+          "rotation": 88.68,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "normalDeathAnimation--8": {
+        "normalDeathAnimation--8": {
+          "x": 28.57,
+          "y": -113.93,
+          "rotation": 88.68,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "normalDeathAnimation--9": {
+        "normalDeathAnimation--9": {
+          "x": 28.57,
+          "y": -113.93,
+          "rotation": 88.68,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "normalDeathAnimation--10": {
+        "normalDeathAnimation--10": {
+          "x": 28.57,
+          "y": -113.93,
+          "rotation": 88.68,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "normalDeathAnimation--11": {
+        "normalDeathAnimation--11": {
+          "x": 28.57,
+          "y": -113.93,
+          "rotation": 88.68,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "normalDeathAnimation--12": {
+        "normalDeathAnimation--12": {
+          "x": 28.57,
+          "y": -113.93,
+          "rotation": 88.68,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "normalDeathAnimation--13": {
+        "normalDeathAnimation--13": {
+          "x": 28.57,
+          "y": -113.93,
+          "rotation": 88.68,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "normalDeathAnimation--14": {
+        "normalDeathAnimation--14": {
+          "x": 28.57,
+          "y": -113.93,
+          "rotation": 88.68,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "normalDeathAnimation--15": {
+        "normalDeathAnimation--15": {
+          "x": 28.57,
+          "y": -113.93,
+          "rotation": 88.68,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "normalDeathAnimation--16": {
+        "normalDeathAnimation--16": {
+          "x": 28.57,
+          "y": -113.93,
+          "rotation": 88.68,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "normalDeathAnimation--17": {
+        "normalDeathAnimation--17": {
+          "x": 28.57,
+          "y": -113.93,
+          "rotation": 88.68,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "normalDeathAnimation--18": {
+        "normalDeathAnimation--18": {
+          "x": 28.57,
+          "y": -113.93,
+          "rotation": 88.68,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "normalDeathAnimation--19": {
+        "normalDeathAnimation--19": {
+          "x": 28.57,
+          "y": -113.93,
+          "rotation": 88.68,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "normalDeathAnimation--20": {
+        "normalDeathAnimation--20": {
+          "x": 28.57,
+          "y": -113.93,
+          "rotation": 88.68,
+          "width": 138,
+          "height": 229
+        }
+      }
+    }
+  },
+"animations": {
+	"death": {
+		"slots": {
+			"normalDeathAnimation--1": {
+				"color": [
+					{ "time": 0.3, "color": "ffffffc7" },
+					{ "time": 0.5667, "color": "ffffff5b" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.3, "name": "normalDeathAnimation--1" },
+					{ "time": 0.7, "name": null }
+				]
+			},
+			"normalDeathAnimation--2": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0333, "name": "normalDeathAnimation--2" },
+					{ "time": 0.0667, "name": null }
+				]
+			},
+			"normalDeathAnimation--3": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0667, "name": "normalDeathAnimation--3" },
+					{ "time": 0.1, "name": null }
+				]
+			},
+			"normalDeathAnimation--4": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.1, "name": "normalDeathAnimation--4" },
+					{ "time": 0.1333, "name": null }
+				]
+			},
+			"normalDeathAnimation--5": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.1333, "name": "normalDeathAnimation--5" },
+					{ "time": 0.1667, "name": null }
+				]
+			},
+			"normalDeathAnimation--6": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.1667, "name": "normalDeathAnimation--6" },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"normalDeathAnimation--7": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.2, "name": "normalDeathAnimation--7" },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"normalDeathAnimation--8": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.2333, "name": "normalDeathAnimation--8" },
+					{ "time": 0.2667, "name": null }
+				]
+			},
+			"normalDeathAnimation--9": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.2667, "name": "normalDeathAnimation--9" },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"normalDeathAnimation--10": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.3, "name": "normalDeathAnimation--10" },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"normalDeathAnimation--11": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.3333, "name": "normalDeathAnimation--11" },
+					{ "time": 0.3667, "name": null }
+				]
+			},
+			"normalDeathAnimation--12": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.3667, "name": "normalDeathAnimation--12" },
+					{ "time": 0.4, "name": null }
+				]
+			},
+			"normalDeathAnimation--13": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.4, "name": "normalDeathAnimation--13" },
+					{ "time": 0.4333, "name": null }
+				]
+			},
+			"normalDeathAnimation--14": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.4333, "name": "normalDeathAnimation--14" },
+					{ "time": 0.4667, "name": null }
+				]
+			},
+			"normalDeathAnimation--15": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.4667, "name": "normalDeathAnimation--15" },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"normalDeathAnimation--16": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5, "name": "normalDeathAnimation--16" },
+					{ "time": 0.5333, "name": null }
+				]
+			},
+			"normalDeathAnimation--17": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5333, "name": "normalDeathAnimation--17" },
+					{ "time": 0.5667, "name": null }
+				]
+			},
+			"normalDeathAnimation--18": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5667, "name": "normalDeathAnimation--18" },
+					{ "time": 0.6, "name": null }
+				]
+			},
+			"normalDeathAnimation--19": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6, "name": "normalDeathAnimation--19" },
+					{ "time": 0.6333, "name": null }
+				]
+			},
+			"normalDeathAnimation--20": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6333, "name": "normalDeathAnimation--20" },
+					{ "time": 0.6667, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"body": {
+				"translate": [
+					{ "time": 0.3, "x": -0.16, "y": 20 },
+					{ "time": 0.5667, "x": -0.31, "y": 39 }
+				]
+			}
+		}
+	},
+	"idle": {
+		"slots": {
+			"normalDeathAnimation--1": {
+				"color": [
+					{ "color": "ffffffff" },
+					{ "time": 1.6667, "color": "ffffffdb" },
+					{ "time": 3.3333, "color": "ffffffff" }
+				]
+			},
+			"normalDeathAnimation--2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normalDeathAnimation--3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normalDeathAnimation--4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normalDeathAnimation--5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normalDeathAnimation--6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normalDeathAnimation--7": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normalDeathAnimation--8": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normalDeathAnimation--9": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normalDeathAnimation--10": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normalDeathAnimation--11": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normalDeathAnimation--12": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normalDeathAnimation--13": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normalDeathAnimation--14": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normalDeathAnimation--15": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normalDeathAnimation--16": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normalDeathAnimation--17": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normalDeathAnimation--18": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normalDeathAnimation--19": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normalDeathAnimation--20": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"cloud": {
+				"translate": [
+					{ "x": -4.74, "y": 1.54 }
+				]
+			},
+			"body": {
+				"translate": [
+					{},
+					{ "time": 1.6667, "x": -0.06, "y": 6.99 },
+					{ "time": 3.3333 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,151 @@
+{
+  "numberCaveLevels": 18,
+  "numberShipLevels": 10,
+  "numberOceanLevels": 0,
+  "caveLevelsInfo": [
+    [
+      "Baby Steps",
+      "Before anything, we should first learn how to swim.",
+      "Fold, Fold"
+    ],
+    [
+      "",
+      "If something's in the way, move it.",
+      "Fold, Fold"
+    ],
+    [
+      "Locked Up",
+      "Of course, the exit is blocked by not one, but TWO walls.",
+      "Fold, Fold"
+    ],
+    [
+      "Newfound Abilities",
+      "Can't move it away? Explode!",
+      "Fight, Fight, Fight"
+    ],
+    [
+      "Tackle Some More",
+      "Sometimes it's better to cool down and wait before blowing up.",
+      "Fold, Fight, Fight"
+    ],
+    [
+      "Get a Grip",
+      "More walls? No problem.",
+      "Fold, Fight"
+    ],
+    [
+      "Lend a Hand",
+      "When you can't beat everything, you can get help from a friend.",
+      "Fold, Fight, Fight"
+    ],
+    [
+      "Clearing the path",
+      "Spikes?!",
+      "Fold, Fight, Fight"
+    ],
+    [
+      "Smash to Freedom",
+      "If you can't touch the spikes...",
+      "Fold, Fight, Fight"
+    ],
+    [
+      "Newerfound Abilities",
+      "You've learned to swim, now it's time to ZOOM",
+      "Flight"
+    ],
+    [
+      "The Gang's All Here",
+      "Running is more fun with friends.",
+      "Fight, Flight, Fold"
+    ],
+    [
+      "Delicious Enemies",
+      "Be careful of where, or who, you run into.",
+      "Fight, Flight, Fold"
+    ],
+    [
+      "Claustrophobic",
+      "Could use some more room to breathe.",
+      "Flight, Fold"
+    ],
+    [
+      "Two Worlds Collide",
+      "Get us out of here!",
+      "Fight, Flight, Fold"
+    ],
+    [
+      "Phone a Friend",
+      "Hey, would you mind helping me out?",
+      "Fight, Flight"
+    ],
+    [
+      "A Coordinated Effort",
+      "Two arms are better than one.",
+      "Fold, Fold, Flight"
+    ],
+    [
+      "Wrangling Them Up",
+      "They took the bait like a moth to a flame.",
+      "Fight, Flight"
+    ],
+    [
+      "Weave Away",
+      "Who is THAT?",
+      "Fight, Fold, Fold"
+    ]
+  ],
+  "shipLevelsInfo": [
+    [
+      "Resurrection",
+      "It's not necromancy, it's bringing you back to life by using ghostly crystal powers.\nTotally different.",
+      "Fight, Fight, Fight"
+    ],
+    [
+      "Chokepoint",
+      "They brought their finest to stop us.",
+      "Fight, Fold, Fold"
+    ],
+    [
+      "Snakeway",
+      "Zigs and Zags will make you feel lost.",
+      "Fight, Fight, Fold"
+    ],
+    [
+      "Sharktooth",
+      "I wonder what sort of shark created a tear like this?",
+      "Flight, Fold, Fold"
+    ],
+    [
+      "Secret Service",
+      "Protect me Squire!",
+      "Fight, Flight, Fold"
+    ],
+    [
+      "Multilayered Walls",
+      "Ooh, how colorful.",
+      "Fight, Flight, Fold"
+    ],
+    [
+      "Separated",
+      "Apart in body, together in spirit.",
+      "Fight, Flight, Fold"
+    ],
+    [
+      "Roads Converge",
+      "We come together once again.",
+      "Fight, Flight, Fold"
+    ],
+    [
+      "Aqueducts",
+      "It's a bit cramped up here!",
+      "Flight, Fold, Fold"
+    ],
+    [
+      "Partitioned",
+      "I feel like I've been packed into a box.",
+      "Fight, Fold, Fold"
+    ]
+  ],
+  "oceanLevelsInfo": [
+  ]
+}

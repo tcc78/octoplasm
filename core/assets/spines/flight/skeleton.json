@@ -1,0 +1,750 @@
+{
+"skeleton": {
+	"hash": "A8s/5NegYyHBvVY3Gndq/uqH274",
+	"spine": "3.8.95",
+	"x": -90.77,
+	"y": -154.94,
+	"width": 181,
+	"height": 298,
+	"images": "./flightImages/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "core", "parent": "root", "length": 61.24, "rotation": 0.32, "x": -24.97, "y": -96.49 },
+	{ "name": "arms", "parent": "core", "length": 39.1, "rotation": 90.18, "x": 86.62, "y": 82.55 },
+	{ "name": "head", "parent": "core", "length": 51.21, "rotation": 89.68, "x": 25.15, "y": 103.31 },
+	{ "name": "front1", "parent": "arms", "length": 24.91, "rotation": 169.82, "x": 22.72, "y": 72.5 },
+	{ "name": "front3", "parent": "arms", "length": 25.72, "rotation": -167.98, "x": 22.5, "y": 47.67 },
+	{ "name": "back3", "parent": "arms", "length": 20.23, "rotation": -115.04, "x": -20.84, "y": 44.04 },
+	{ "name": "back1", "parent": "arms", "length": 26.41, "rotation": 144.18, "x": -32.48, "y": 72.77 }
+],
+"slots": [
+	{ "name": "back1", "bone": "back1", "attachment": "back1" },
+	{ "name": "back2", "bone": "arms", "attachment": "back2" },
+	{ "name": "back3", "bone": "back3", "attachment": "back3" },
+	{ "name": "mid1", "bone": "arms", "attachment": "mid1" },
+	{ "name": "mid2", "bone": "arms", "attachment": "mid2" },
+	{ "name": "front1", "bone": "front1", "attachment": "front1" },
+	{ "name": "front2", "bone": "arms", "attachment": "front2" },
+	{ "name": "front3", "bone": "front3", "attachment": "front3" },
+	{ "name": "head", "bone": "head", "attachment": "flightWin-14" }
+],
+  "skins": {
+    
+    "default": {
+      "back1": {
+        "back1": {
+          "x": -44.53,
+          "y": -17.71,
+          "rotation": 125.31,
+          "width": 80,
+          "height": 160
+        }
+      },
+      "back2": {
+        "back2": {
+          "x": 13.99,
+          "y": 61.07,
+          "rotation": -90.51,
+          "width": 80,
+          "height": 160
+        }
+      },
+      "back3": {
+        "back3": {
+          "x": -30.17,
+          "y": 24.35,
+          "rotation": 24.54,
+          "width": 80,
+          "height": 160
+        }
+      },
+      "front1": {
+        "front1": {
+          "x": 6.57,
+          "y": 12.79,
+          "rotation": 99.67,
+          "width": 80,
+          "height": 160
+        }
+      },
+      "front2": {
+        "front2": {
+          "x": 13.99,
+          "y": 61.07,
+          "rotation": -90.51,
+          "width": 80,
+          "height": 160
+        }
+      },
+      "front3": {
+        "front3": {
+          "x": 5.53,
+          "y": -14.88,
+          "rotation": 77.47,
+          "width": 80,
+          "height": 160
+        }
+      },
+      "head": {
+        "ability1": {
+          "x": 0.5,
+          "rotation": -90,
+          "width": 226,
+          "height": 263
+        },
+        "ability2": {
+          "x": 0.5,
+          "rotation": -90,
+          "width": 226,
+          "height": 263
+        },
+        "ability3": {
+          "x": 0.5,
+          "rotation": -90,
+          "width": 226,
+          "height": 263
+        },
+        "ability4": {
+          "x": 0.5,
+          "rotation": -90,
+          "width": 226,
+          "height": 263
+        },
+        "ability5": {
+          "x": 0.5,
+          "rotation": -90,
+          "width": 226,
+          "height": 263
+        },
+        "ability6": {
+          "x": 0.5,
+          "rotation": -90,
+          "width": 226,
+          "height": 263
+        },
+        "ability7": {
+          "x": 0.5,
+          "rotation": -90,
+          "width": 226,
+          "height": 263
+        },
+        "ability8": {
+          "x": 0.5,
+          "rotation": -90,
+          "width": 226,
+          "height": 263
+        },
+        "ability9": {
+          "x": 0.5,
+          "rotation": -90,
+          "width": 226,
+          "height": 263
+        },
+        "bubbles1": {
+          "x": 0.5,
+          "rotation": -90,
+          "width": 226,
+          "height": 263
+        },
+        "bubbles2": {
+          "x": 0.5,
+          "rotation": -90,
+          "width": 226,
+          "height": 263
+        },
+        "bubbles3": {
+          "x": 0.5,
+          "rotation": -90,
+          "width": 226,
+          "height": 263
+        },
+        "bubbles4": {
+          "x": 0.5,
+          "rotation": -90,
+          "width": 226,
+          "height": 263
+        },
+        "bubbles5": {
+          "x": 0.5,
+          "rotation": -90,
+          "width": 226,
+          "height": 263
+        },
+        "bubbles6": {
+          "x": 0.5,
+          "rotation": -90,
+          "width": 226,
+          "height": 263
+        },
+        "bubbles7": {
+          "x": 0.5,
+          "rotation": -90,
+          "width": 226,
+          "height": 263
+        },
+        "bubbles8": {
+          "x": 0.5,
+          "rotation": -90,
+          "width": 226,
+          "height": 263
+        },
+        "bubbles9": {
+          "x": 0.5,
+          "rotation": -90,
+          "width": 226,
+          "height": 263
+        },
+        "bubbles10": {
+          "x": 0.5,
+          "rotation": -90,
+          "width": 226,
+          "height": 263
+        },
+        "bubbles11": {
+          "x": 0.5,
+          "rotation": -90,
+          "width": 226,
+          "height": 263
+        },
+        "bubbles12": {
+          "x": 0.5,
+          "rotation": -90,
+          "width": 226,
+          "height": 263
+        },
+        "bubbles13": {
+          "x": 0.5,
+          "rotation": -90,
+          "width": 226,
+          "height": 263
+        },
+        "bubbles14": {
+          "x": 0.5,
+          "rotation": -90,
+          "width": 226,
+          "height": 263
+        },
+        "bubbles15": {
+          "x": 0.5,
+          "rotation": -90,
+          "width": 226,
+          "height": 263
+        },
+        "bubbles16": {
+          "x": 0.5,
+          "rotation": -90,
+          "width": 226,
+          "height": 263
+        },
+        "flightWin-1": {
+          "x": -12.9,
+          "y": -0.13,
+          "rotation": -90,
+          "width": 181,
+          "height": 298
+        },
+        "flightWin-2": {
+          "x": -12.9,
+          "y": -0.13,
+          "rotation": -90,
+          "width": 181,
+          "height": 298
+        },
+        "flightWin-3": {
+          "x": -12.9,
+          "y": -0.13,
+          "rotation": -90,
+          "width": 181,
+          "height": 298
+        },
+        "flightWin-4": {
+          "x": -12.9,
+          "y": -0.13,
+          "rotation": -90,
+          "width": 181,
+          "height": 298
+        },
+        "flightWin-5": {
+          "x": -12.9,
+          "y": -0.13,
+          "rotation": -90,
+          "width": 181,
+          "height": 298
+        },
+        "flightWin-6": {
+          "x": -12.9,
+          "y": -0.13,
+          "rotation": -90,
+          "width": 181,
+          "height": 298
+        },
+        "flightWin-7": {
+          "x": -12.9,
+          "y": -0.13,
+          "rotation": -90,
+          "width": 181,
+          "height": 298
+        },
+        "flightWin-8": {
+          "x": -12.9,
+          "y": -0.13,
+          "rotation": -90,
+          "width": 181,
+          "height": 298
+        },
+        "flightWin-9": {
+          "x": -12.9,
+          "y": -0.13,
+          "rotation": -90,
+          "width": 181,
+          "height": 298
+        },
+        "flightWin-10": {
+          "x": -12.9,
+          "y": -0.13,
+          "rotation": -90,
+          "width": 181,
+          "height": 298
+        },
+        "flightWin-11": {
+          "x": -12.9,
+          "y": -0.13,
+          "rotation": -90,
+          "width": 181,
+          "height": 298
+        },
+        "flightWin-12": {
+          "x": -12.9,
+          "y": -0.13,
+          "rotation": -90,
+          "width": 181,
+          "height": 298
+        },
+        "flightWin-13": {
+          "x": -12.9,
+          "y": -0.13,
+          "rotation": -90,
+          "width": 181,
+          "height": 298
+        },
+        "flightWin-14": {
+          "x": -12.9,
+          "y": -0.13,
+          "rotation": -90,
+          "width": 181,
+          "height": 298
+        },
+        "head": {
+          "x": -6.96,
+          "y": -0.4,
+          "rotation": -90,
+          "width": 80,
+          "height": 160
+        }
+      },
+      "mid1": {
+        "mid1": {
+          "x": 13.99,
+          "y": 61.07,
+          "rotation": -90.51,
+          "width": 80,
+          "height": 160
+        }
+      },
+      "mid2": {
+        "mid2": {
+          "x": 13.99,
+          "y": 61.07,
+          "rotation": -90.51,
+          "width": 80,
+          "height": 160
+        }
+      }
+    }
+  },
+"animations": {
+	"ability": {
+		"slots": {
+			"back1": {
+				"attachment": [
+					{ "time": 0.0333, "name": null }
+				]
+			},
+			"back2": {
+				"attachment": [
+					{ "time": 0.0333, "name": null }
+				]
+			},
+			"back3": {
+				"attachment": [
+					{ "time": 0.0333, "name": null }
+				]
+			},
+			"front1": {
+				"attachment": [
+					{ "time": 0.0333, "name": null }
+				]
+			},
+			"front2": {
+				"attachment": [
+					{ "time": 0.0333, "name": null }
+				]
+			},
+			"front3": {
+				"attachment": [
+					{ "time": 0.0333, "name": null }
+				]
+			},
+			"head": {
+				"attachment": [
+					{ "time": 0.0333, "name": "ability1" },
+					{ "time": 0.1, "name": "ability2" },
+					{ "time": 0.2, "name": "ability3" },
+					{ "time": 0.2333, "name": "ability4" },
+					{ "time": 0.3, "name": "ability5" },
+					{ "time": 0.3667, "name": "ability6" },
+					{ "time": 0.4333, "name": "ability7" },
+					{ "time": 0.5, "name": "ability8" },
+					{ "time": 0.5667, "name": "ability9" },
+					{ "time": 3, "name": "ability9" }
+				]
+			},
+			"mid1": {
+				"attachment": [
+					{ "time": 0.0333, "name": null }
+				]
+			},
+			"mid2": {
+				"attachment": [
+					{ "time": 0.0333, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"back1": {
+				"rotate": [
+					{ },
+					{ "time": 1, "angle": 1.56 },
+					{ "time": 2 }
+				],
+				"translate": [
+					{ },
+					{ "time": 1, "x": 2.66, "y": -3.62 },
+					{ "time": 2 }
+				]
+			},
+			"back3": {
+				"rotate": [
+					{ },
+					{ "time": 1, "angle": -20 },
+					{ "time": 2 }
+				]
+			},
+			"front3": {
+				"rotate": [
+					{ },
+					{ "time": 1, "angle": -2.15 },
+					{ "time": 2 }
+				]
+			},
+			"front1": {
+				"rotate": [
+					{ },
+					{ "time": 1, "angle": 6.59 },
+					{ "time": 2 }
+				]
+			},
+			"core": {
+				"translate": [
+					{ "time": 0.0333, "y": -7.93 }
+				]
+			}
+		}
+	},
+	"death": {
+		"slots": {
+			"back1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"back2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"back3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"front1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"front2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"front3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"head": {
+				"attachment": [
+					{ "name": "bubbles1" },
+					{ "time": 0.1, "name": "bubbles2" },
+					{ "time": 0.1333, "name": "bubbles3" },
+					{ "time": 0.2, "name": "bubbles4" },
+					{ "time": 0.2667, "name": "bubbles5" },
+					{ "time": 0.3333, "name": "bubbles6" },
+					{ "time": 0.4, "name": "bubbles7" },
+					{ "time": 0.4667, "name": "bubbles8" },
+					{ "time": 0.5333, "name": "bubbles9" },
+					{ "time": 0.6, "name": "bubbles10" },
+					{ "time": 0.6667, "name": "bubbles11" },
+					{ "time": 0.7333, "name": "bubbles12" },
+					{ "time": 0.8, "name": "bubbles13" },
+					{ "time": 0.8667, "name": "bubbles14" },
+					{ "time": 0.9667, "name": "bubbles15" },
+					{ "time": 1, "name": "bubbles16" }
+				]
+			},
+			"mid1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mid2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"back1": {
+				"rotate": [
+					{ },
+					{ "time": 1, "angle": 1.56 },
+					{ "time": 2 }
+				],
+				"translate": [
+					{ },
+					{ "time": 1, "x": 2.66, "y": -3.62 },
+					{ "time": 2 }
+				]
+			},
+			"back3": {
+				"rotate": [
+					{ },
+					{ "time": 1, "angle": -20 },
+					{ "time": 2 }
+				]
+			},
+			"front3": {
+				"rotate": [
+					{ },
+					{ "time": 1, "angle": -2.15 },
+					{ "time": 2 }
+				]
+			},
+			"front1": {
+				"rotate": [
+					{ },
+					{ "time": 1, "angle": 6.59 },
+					{ "time": 2 }
+				]
+			}
+		}
+	},
+	"idle": {
+		"slots": {
+			"head": {
+				"attachment": [
+					{ "name": "head" }
+				]
+			}
+		},
+		"bones": {
+			"front3": {
+				"rotate": [
+					{ },
+					{ "time": 1, "angle": -2.15 },
+					{ "time": 2 }
+				]
+			},
+			"front1": {
+				"rotate": [
+					{ },
+					{ "time": 1, "angle": 6.59 },
+					{ "time": 2 }
+				]
+			},
+			"back3": {
+				"rotate": [
+					{ },
+					{ "time": 1, "angle": -20 },
+					{ "time": 2 }
+				]
+			},
+			"back1": {
+				"rotate": [
+					{ },
+					{ "time": 1, "angle": 1.56 },
+					{ "time": 2 }
+				],
+				"translate": [
+					{ },
+					{ "time": 1, "x": 2.66, "y": -3.62 },
+					{ "time": 2 }
+				]
+			},
+			"arms": {
+				"translate": [
+					{ },
+					{ "time": 1, "x": 0.03, "y": 4.53 },
+					{ "time": 2 }
+				]
+			},
+			"core": {
+				"translate": [
+					{ },
+					{ "time": 0.5, "y": -10 },
+					{ "time": 1 },
+					{ "time": 1.5, "y": 10 },
+					{ "time": 2 }
+				]
+			}
+		}
+	},
+	"move": {
+		"bones": {
+			"core": {
+				"translate": [
+					{ },
+					{ "time": 0.5, "y": -10 },
+					{ "time": 1 },
+					{ "time": 1.5, "y": 10 },
+					{ "time": 2 }
+				]
+			},
+			"arms": {
+				"translate": [
+					{ },
+					{ "time": 1, "x": 0.03, "y": 4.53 },
+					{ "time": 2 }
+				]
+			},
+			"back1": {
+				"rotate": [
+					{ },
+					{ "time": 1, "angle": 1.56 },
+					{ "time": 2 }
+				],
+				"translate": [
+					{ },
+					{ "time": 1, "x": 2.66, "y": -3.62 },
+					{ "time": 2 }
+				]
+			},
+			"back3": {
+				"rotate": [
+					{ },
+					{ "time": 1, "angle": -20 },
+					{ "time": 2 }
+				]
+			},
+			"front3": {
+				"rotate": [
+					{ },
+					{ "time": 1, "angle": -2.15 },
+					{ "time": 2 }
+				]
+			},
+			"front1": {
+				"rotate": [
+					{ },
+					{ "time": 1, "angle": 6.59 },
+					{ "time": 2 }
+				]
+			}
+		}
+	},
+	"win": {
+		"slots": {
+			"back1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.4667, "name": "back1" }
+				]
+			},
+			"back2": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.4667, "name": "back2" }
+				]
+			},
+			"back3": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.4667, "name": "back3" }
+				]
+			},
+			"front1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.4667, "name": "front1" }
+				]
+			},
+			"front2": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.4667, "name": "front2" }
+				]
+			},
+			"front3": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.4667, "name": "front3" }
+				]
+			},
+			"head": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0667, "name": "flightWin-1" },
+					{ "time": 0.1333, "name": "flightWin-2" },
+					{ "time": 0.2, "name": "flightWin-3" },
+					{ "time": 0.2667, "name": "flightWin-4" },
+					{ "time": 0.3333, "name": "flightWin-5" },
+					{ "time": 0.4, "name": "flightWin-6" },
+					{ "time": 0.4667, "name": "flightWin-7" },
+					{ "time": 0.5333, "name": "flightWin-8" },
+					{ "time": 0.5667, "name": "flightWin-9" },
+					{ "time": 0.6, "name": "flightWin-10" },
+					{ "time": 0.6333, "name": "flightWin-11" },
+					{ "time": 0.6667, "name": "flightWin-12" },
+					{ "time": 0.7, "name": "flightWin-13" },
+					{ "time": 0.7333, "name": "head" }
+				]
+			},
+			"mid1": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.4667, "name": "mid1" }
+				]
+			},
+			"mid2": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.4667, "name": "mid2" }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,560 @@
+{
+"skeleton": {
+	"hash": "WhFUwimfAtjSQmd6ZYnO9O0VGEw",
+	"spine": "3.8.95",
+	"x": -61.15,
+	"y": -108.93,
+	"width": 128,
+	"height": 242,
+	"images": "./foldImages/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "core", "parent": "root", "length": 74.81, "rotation": -2.55, "x": -21.69, "y": -94.55 },
+	{ "name": "head", "parent": "core", "length": 55.14, "rotation": 94.21, "x": 18.57, "y": 101.98 },
+	{ "name": "arms", "parent": "head", "length": 29.51, "rotation": 178.35, "x": -8.48, "y": -8.56 },
+	{ "name": "front", "parent": "arms", "length": 25.79, "rotation": 4.71, "x": -0.01, "y": -6.68 },
+	{ "name": "back", "parent": "arms", "length": 21.48, "rotation": 2.22, "x": -14.32, "y": 48.97 },
+	{ "name": "hook", "parent": "front", "length": 22.26, "rotation": -7.78, "x": 37.46, "y": 6.06 }
+],
+"slots": [
+	{ "name": "back", "bone": "back", "attachment": "back" },
+	{ "name": "extend", "bone": "hook", "attachment": "extend" },
+	{ "name": "front", "bone": "front", "attachment": "front" },
+	{ "name": "head", "bone": "head", "attachment": "foldWin-14" },
+	{ "name": "hook", "bone": "hook", "attachment": "hook" }
+],
+  "skins": {
+    
+    "default": {
+      "back": {
+        "back": {
+          "x": 6.28,
+          "y": -59.44,
+          "rotation": 87.88,
+          "width": 80,
+          "height": 160
+        }
+      },
+      "extend": {
+        "extend": {
+          "x": -41.93,
+          "y": -14.9,
+          "rotation": 93.07,
+          "width": 80,
+          "height": 160
+        }
+      },
+      "front": {
+        "front": {
+          "x": -6.1,
+          "y": -3.03,
+          "rotation": 85.29,
+          "width": 80,
+          "height": 160
+        }
+      },
+      "head": {
+        "foldAbility-1": {
+          "x": -9.99,
+          "y": 3.94,
+          "rotation": -91.65,
+          "width": 279,
+          "height": 253
+        },
+        "foldAbility-2": {
+          "x": -9.99,
+          "y": 3.94,
+          "rotation": -91.65,
+          "width": 279,
+          "height": 253
+        },
+        "foldAbility-3": {
+          "x": -9.99,
+          "y": 3.94,
+          "rotation": -91.65,
+          "width": 279,
+          "height": 253
+        },
+        "foldAbility-4": {
+          "x": -9.99,
+          "y": 3.94,
+          "rotation": -91.65,
+          "width": 279,
+          "height": 253
+        },
+        "foldAbility-5": {
+          "x": -9.99,
+          "y": 3.94,
+          "rotation": -91.65,
+          "width": 279,
+          "height": 253
+        },
+        "foldAbility-6": {
+          "x": -9.99,
+          "y": 3.94,
+          "rotation": -91.65,
+          "width": 279,
+          "height": 253
+        },
+        "foldAbility-7": {
+          "x": -9.99,
+          "y": 3.94,
+          "rotation": -91.65,
+          "width": 279,
+          "height": 253
+        },
+        "foldAbility-8": {
+          "x": -9.99,
+          "y": 3.94,
+          "rotation": -91.65,
+          "width": 279,
+          "height": 253
+        },
+        "foldAbility-9": {
+          "x": -9.99,
+          "y": 3.94,
+          "rotation": -91.65,
+          "width": 279,
+          "height": 253
+        },
+        "foldAbility-10": {
+          "x": -9.99,
+          "y": 3.94,
+          "rotation": -91.65,
+          "width": 279,
+          "height": 253
+        },
+        "foldAbility-11": {
+          "x": -9.99,
+          "y": 3.94,
+          "rotation": -91.65,
+          "width": 279,
+          "height": 253
+        },
+        "foldAbility-12": {
+          "x": -9.99,
+          "y": 3.94,
+          "rotation": -91.65,
+          "width": 279,
+          "height": 253
+        },
+        "foldAbility-13": {
+          "x": -9.99,
+          "y": 3.94,
+          "rotation": -91.65,
+          "width": 279,
+          "height": 253
+        },
+        "foldAbility-14": {
+          "x": -9.99,
+          "y": 3.94,
+          "rotation": -91.65,
+          "width": 279,
+          "height": 253
+        },
+        "foldAbility-15": {
+          "x": -9.99,
+          "y": 3.94,
+          "rotation": -91.65,
+          "width": 279,
+          "height": 253
+        },
+        "foldAbility-16": {
+          "x": -9.99,
+          "y": 3.94,
+          "rotation": -91.65,
+          "width": 279,
+          "height": 253
+        },
+        "foldAbility-17": {
+          "x": -9.99,
+          "y": 3.94,
+          "rotation": -91.65,
+          "width": 279,
+          "height": 253
+        },
+        "foldWin-1": {
+          "x": 5.53,
+          "y": -1.61,
+          "rotation": -91.65,
+          "width": 128,
+          "height": 242
+        },
+        "foldWin-2": {
+          "x": 5.53,
+          "y": -1.61,
+          "rotation": -91.65,
+          "width": 128,
+          "height": 242
+        },
+        "foldWin-3": {
+          "x": 5.53,
+          "y": -1.61,
+          "rotation": -91.65,
+          "width": 128,
+          "height": 242
+        },
+        "foldWin-4": {
+          "x": 5.53,
+          "y": -1.61,
+          "rotation": -91.65,
+          "width": 128,
+          "height": 242
+        },
+        "foldWin-5": {
+          "x": 5.53,
+          "y": -1.61,
+          "rotation": -91.65,
+          "width": 128,
+          "height": 242
+        },
+        "foldWin-6": {
+          "x": 5.53,
+          "y": -1.61,
+          "rotation": -91.65,
+          "width": 128,
+          "height": 242
+        },
+        "foldWin-7": {
+          "x": 5.53,
+          "y": -1.61,
+          "rotation": -91.65,
+          "width": 128,
+          "height": 242
+        },
+        "foldWin-8": {
+          "x": 5.53,
+          "y": -1.61,
+          "rotation": -91.65,
+          "width": 128,
+          "height": 242
+        },
+        "foldWin-9": {
+          "x": 5.53,
+          "y": -1.61,
+          "rotation": -91.65,
+          "width": 128,
+          "height": 242
+        },
+        "foldWin-10": {
+          "x": 5.53,
+          "y": -1.61,
+          "rotation": -91.65,
+          "width": 128,
+          "height": 242
+        },
+        "foldWin-11": {
+          "x": 5.53,
+          "y": -1.61,
+          "rotation": -91.65,
+          "width": 128,
+          "height": 242
+        },
+        "foldWin-12": {
+          "x": 5.53,
+          "y": -1.61,
+          "rotation": -91.65,
+          "width": 128,
+          "height": 242
+        },
+        "foldWin-13": {
+          "x": 5.53,
+          "y": -1.61,
+          "rotation": -91.65,
+          "width": 128,
+          "height": 242
+        },
+        "foldWin-14": {
+          "x": 5.53,
+          "y": -1.61,
+          "rotation": -91.65,
+          "width": 128,
+          "height": 242
+        },
+        "head": {
+          "x": -2.34,
+          "y": 1.47,
+          "rotation": -91.7,
+          "width": 80,
+          "height": 160
+        }
+      },
+      "hook": {
+        "hook": {
+          "x": -41.93,
+          "y": -14.9,
+          "rotation": 93.07,
+          "width": 80,
+          "height": 160
+        }
+      }
+    }
+  },
+"animations": {
+	"ability": {
+		"slots": {
+			"back": {
+				"attachment": [
+					{ "time": 0.0667, "name": null }
+				]
+			},
+			"extend": {
+				"attachment": [
+					{ "time": 0.0667, "name": null }
+				]
+			},
+			"front": {
+				"attachment": [
+					{ "time": 0.0667, "name": null }
+				]
+			},
+			"head": {
+				"attachment": [
+					{ "name": "head" },
+					{ "time": 0.0667, "name": "foldAbility-2" },
+					{ "time": 0.1333, "name": "foldAbility-3" },
+					{ "time": 0.2, "name": "foldAbility-4" },
+					{ "time": 0.2667, "name": "foldAbility-5" },
+					{ "time": 0.3333, "name": "foldAbility-6" },
+					{ "time": 0.4, "name": "foldAbility-7" },
+					{ "time": 0.4667, "name": "foldAbility-8" },
+					{ "time": 0.5333, "name": "foldAbility-9" },
+					{ "time": 0.6, "name": "foldAbility-2" },
+					{ "time": 0.6667, "name": "foldAbility-1" }
+				]
+			},
+			"hook": {
+				"attachment": [
+					{ "time": 0.0667, "name": null }
+				]
+			}
+		}
+	},
+	"death": {
+		"slots": {
+			"back": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"extend": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"front": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"head": {
+				"attachment": [
+					{ "name": "foldAbility-1" },
+					{ "time": 0.0333, "name": "foldAbility-11" },
+					{ "time": 0.1, "name": "foldAbility-12" },
+					{ "time": 0.1333, "name": "foldAbility-13" },
+					{ "time": 0.1667, "name": "foldAbility-14" },
+					{ "time": 0.2, "name": "foldAbility-15" },
+					{ "time": 0.2333, "name": "foldAbility-16" },
+					{ "time": 0.2667, "name": "foldAbility-17" },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"hook": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"front": {
+				"rotate": [
+					{ "angle": 0.06 }
+				]
+			},
+			"arms": {
+				"rotate": [
+					{ "angle": 0.06 }
+				],
+				"translate": [
+					{ },
+					{ "time": 0.5, "x": 2.4, "y": -0.07 },
+					{ "time": 1.5, "x": -1.33, "y": 0.04 },
+					{ "time": 2 }
+				]
+			}
+		}
+	},
+	"idle": {
+		"bones": {
+			"core": {
+				"rotate": [
+					{ "angle": 0.06 }
+				],
+				"translate": [
+					{ },
+					{ "time": 0.5, "y": 10 },
+					{ "time": 1 },
+					{ "time": 1.5, "y": -10 },
+					{ "time": 2 }
+				]
+			},
+			"arms": {
+				"rotate": [
+					{ "angle": 0.06 }
+				],
+				"translate": [
+          {},
+					{ "time": 0.5, "x": 2.4, "y": -0.07 },
+					{ "time": 1.5, "x": -1.33, "y": 0.04 },
+					{ "time": 2 }
+				]
+			},
+			"back": {
+				"rotate": [
+					{ "angle": 0.06 }
+				],
+				"translate": [
+          { },
+					{ "time": 0.5, "x": -1.52 },
+					{ "time": 1.5, "x": 0.83 },
+					{ "time": 2 }
+				]
+			},
+			"hook": {
+				"rotate": [
+					{ "angle": -1.65 },
+					{ "time": 1, "angle": -9.13 },
+					{ "time": 1.3667, "angle": -5.63 },
+					{ "time": 2 }
+				],
+				"translate": [
+          { },
+					{ "time": 1, "x": -1.44, "y": 1.1 },
+					{ "time": 2 }
+				]
+			},
+			"head": {
+				"rotate": [
+					{ "angle": 0.06 }
+				]
+			},
+			"front": {
+				"rotate": [
+					{ "angle": 0.06 }
+				]
+			}
+		}
+	},
+	"move": {
+		"bones": {
+			"hook": {
+				"rotate": [
+					{ "angle": -1.65 },
+					{ "time": 1, "angle": -9.13 },
+					{ "time": 1.3667, "angle": -5.63 },
+					{ "time": 2 }
+				],
+				"translate": [
+					{ },
+					{ "time": 1, "x": -1.44, "y": 1.1 },
+					{ "time": 2 }
+				]
+			},
+			"back": {
+				"rotate": [
+					{ "angle": 0.06 }
+				],
+				"translate": [
+					{ },
+					{ "time": 0.5, "x": -1.52 },
+					{ "time": 1.5, "x": 0.83 },
+					{ "time": 2 }
+				]
+			},
+			"front": {
+				"rotate": [
+					{ "angle": 0.06 }
+				]
+			},
+			"arms": {
+				"rotate": [
+					{ "angle": 0.06 }
+				],
+				"translate": [
+					{ },
+					{ "time": 0.5, "x": 2.4, "y": -0.07 },
+					{ "time": 1.5, "x": -1.33, "y": 0.04 },
+					{ "time": 2 }
+				]
+			},
+			"head": {
+				"rotate": [
+					{ "angle": 0.06 }
+				]
+			},
+			"core": {
+				"rotate": [
+					{ "angle": 0.06 }
+				],
+				"translate": [
+					{ },
+					{ "time": 0.5, "y": 10 },
+					{ "time": 1 },
+					{ "time": 1.5, "y": -10 },
+					{ "time": 2 }
+				]
+			}
+		}
+	},
+	"win": {
+		"slots": {
+			"back": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.7333, "name": "back" }
+				]
+			},
+			"extend": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.7333, "name": "extend" }
+				]
+			},
+			"front": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.7333, "name": "front" }
+				]
+			},
+			"head": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0667, "name": "foldWin-1" },
+					{ "time": 0.1333, "name": "foldWin-2" },
+					{ "time": 0.2, "name": "foldWin-3" },
+					{ "time": 0.2667, "name": "foldWin-4" },
+					{ "time": 0.3333, "name": "foldWin-5" },
+					{ "time": 0.4, "name": "foldWin-6" },
+					{ "time": 0.4667, "name": "foldWin-7" },
+					{ "time": 0.5333, "name": "foldWin-8" },
+					{ "time": 0.5667, "name": "foldWin-9" },
+					{ "time": 0.6, "name": "foldWin-10" },
+					{ "time": 0.6333, "name": "foldWin-11" },
+					{ "time": 0.6667, "name": "foldWin-12" },
+					{ "time": 0.7, "name": "foldWin-13" },
+					{ "time": 0.7333, "name": "head" }
+				]
+			},
+			"hook": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.7333, "name": "hook" }
+				]
+			}
+		}
+	}
+}
+}

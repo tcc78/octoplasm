@@ -1,0 +1,258 @@
+
+skeleton.png
+size: 1728,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: false
+  xy: 1608, 240
+  size: 48, 27
+  orig: 80, 160
+  offset: 18, 42
+  index: -1
+extend
+  rotate: false
+  xy: 719, 3
+  size: 14, 6
+  orig: 80, 160
+  offset: 48, 26
+  index: -1
+foldAbility-1
+  rotate: false
+  xy: 1133, 107
+  size: 80, 160
+  orig: 279, 253
+  offset: 102, 54
+  index: -1
+foldWin-14
+  rotate: false
+  xy: 1133, 107
+  size: 80, 160
+  orig: 128, 242
+  offset: 21, 33
+  index: -1
+foldAbility-10
+  rotate: false
+  xy: 406, 99
+  size: 91, 168
+  orig: 279, 253
+  offset: 91, 46
+  index: -1
+foldAbility-11
+  rotate: true
+  xy: 164, 2
+  size: 93, 144
+  orig: 279, 253
+  offset: 96, 56
+  index: -1
+foldAbility-12
+  rotate: false
+  xy: 1329, 123
+  size: 108, 144
+  orig: 279, 253
+  offset: 90, 58
+  index: -1
+foldAbility-13
+  rotate: false
+  xy: 1215, 122
+  size: 112, 145
+  orig: 279, 253
+  offset: 87, 57
+  index: -1
+foldAbility-14
+  rotate: true
+  xy: 1230, 4
+  size: 116, 144
+  orig: 279, 253
+  offset: 86, 59
+  index: -1
+foldAbility-15
+  rotate: true
+  xy: 1376, 7
+  size: 114, 140
+  orig: 279, 253
+  offset: 88, 64
+  index: -1
+foldAbility-16
+  rotate: false
+  xy: 1439, 128
+  size: 112, 139
+  orig: 279, 253
+  offset: 89, 64
+  index: -1
+foldAbility-17
+  rotate: true
+  xy: 1518, 13
+  size: 113, 138
+  orig: 279, 253
+  offset: 87, 66
+  index: -1
+foldAbility-2
+  rotate: true
+  xy: 801, 12
+  size: 88, 159
+  orig: 279, 253
+  offset: 97, 52
+  index: -1
+foldAbility-3
+  rotate: true
+  xy: 480, 6
+  size: 91, 155
+  orig: 279, 253
+  offset: 94, 51
+  index: -1
+foldAbility-4
+  rotate: false
+  xy: 612, 101
+  size: 103, 166
+  orig: 279, 253
+  offset: 82, 48
+  index: -1
+foldAbility-5
+  rotate: false
+  xy: 499, 101
+  size: 111, 166
+  orig: 279, 253
+  offset: 71, 48
+  index: -1
+foldAbility-6
+  rotate: false
+  xy: 717, 102
+  size: 114, 165
+  orig: 279, 253
+  offset: 68, 49
+  index: -1
+foldAbility-7
+  rotate: false
+  xy: 205, 99
+  size: 99, 168
+  orig: 279, 253
+  offset: 83, 46
+  index: -1
+foldAbility-8
+  rotate: false
+  xy: 306, 99
+  size: 98, 168
+  orig: 279, 253
+  offset: 84, 46
+  index: -1
+foldAbility-9
+  rotate: true
+  xy: 310, 6
+  size: 91, 168
+  orig: 279, 253
+  offset: 91, 46
+  index: -1
+foldWin-1
+  rotate: true
+  xy: 1182, 27
+  size: 78, 46
+  orig: 128, 242
+  offset: 22, 190
+  index: -1
+foldWin-10
+  rotate: false
+  xy: 941, 107
+  size: 105, 160
+  orig: 128, 242
+  offset: 8, 33
+  index: -1
+foldWin-11
+  rotate: false
+  xy: 833, 107
+  size: 106, 160
+  orig: 128, 242
+  offset: 7, 33
+  index: -1
+foldWin-12
+  rotate: true
+  xy: 2, 2
+  size: 92, 160
+  orig: 128, 242
+  offset: 21, 33
+  index: -1
+foldWin-13
+  rotate: false
+  xy: 1048, 107
+  size: 83, 160
+  orig: 128, 242
+  offset: 21, 33
+  index: -1
+foldWin-2
+  rotate: true
+  xy: 1658, 152
+  size: 53, 67
+  orig: 128, 242
+  offset: 53, 153
+  index: -1
+foldWin-3
+  rotate: true
+  xy: 1658, 207
+  size: 60, 68
+  orig: 128, 242
+  offset: 43, 103
+  index: -1
+foldWin-4
+  rotate: false
+  xy: 1658, 21
+  size: 57, 55
+  orig: 128, 242
+  offset: 14, 101
+  index: -1
+foldWin-5
+  rotate: true
+  xy: 1658, 78
+  size: 72, 63
+  orig: 128, 242
+  offset: 5, 115
+  index: -1
+foldWin-6
+  rotate: false
+  xy: 637, 2
+  size: 80, 97
+  orig: 128, 242
+  offset: 4, 96
+  index: -1
+foldWin-7
+  rotate: true
+  xy: 1039, 19
+  size: 86, 141
+  orig: 128, 242
+  offset: 13, 59
+  index: -1
+foldWin-8
+  rotate: false
+  xy: 106, 97
+  size: 97, 170
+  orig: 128, 242
+  offset: 12, 36
+  index: -1
+foldWin-9
+  rotate: false
+  xy: 2, 96
+  size: 102, 171
+  orig: 128, 242
+  offset: 9, 33
+  index: -1
+front
+  rotate: false
+  xy: 719, 11
+  size: 80, 89
+  orig: 80, 160
+  offset: 0, 30
+  index: -1
+head
+  rotate: false
+  xy: 962, 18
+  size: 75, 87
+  orig: 80, 160
+  offset: 3, 73
+  index: -1
+hook
+  rotate: false
+  xy: 1553, 230
+  size: 53, 37
+  orig: 80, 160
+  offset: 9, 0
+  index: -1

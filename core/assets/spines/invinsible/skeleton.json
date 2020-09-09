@@ -1,0 +1,52 @@
+{
+"skeleton": {
+	"hash": "9o2qdQYLMzJgQLdXMSHxfgUSUok",
+	"spine": "3.8.95",
+	"x": -48,
+	"y": -73,
+	"width": 96,
+	"height": 160,
+	"images": "./invinsibleImages/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "superEnemy", "bone": "root", "attachment": "superEnemy" }
+],
+  "skins": {
+    
+    "default": {
+      "superEnemy": {
+        "superEnemy": {
+          "y": 7,
+          "width": 96,
+          "height": 160
+        }
+      }
+    }
+  },
+"animations": {
+	"idle": {
+		"slots": {
+			"superEnemy": {
+				"color": [
+					{ "color": "ffffffff" },
+					{ "time": 1.6667, "color": "ffffffdb" },
+					{ "time": 3.3333, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"translate": [
+					{},
+					{ "time": 1.6667, "y": 6 },
+					{ "time": 3.3333 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,499 @@
+{
+"skeleton": {
+	"hash": "bX4Gh7EIyUht6jEzFl9EDHmIMHg",
+	"spine": "3.8.95",
+	"x": -108.51,
+	"y": -122.32,
+	"width": 217.02,
+	"height": 264.84,
+	"images": "./donutImages/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "core", "parent": "root", "length": 98.65, "rotation": -0.38, "x": -54.23, "y": -91.51 },
+	{ "name": "body", "parent": "core", "length": 48.04, "rotation": -88.07, "x": 51.75, "y": 124.3 },
+	{ "name": "cloud", "parent": "core", "length": 57.76, "rotation": 89.73, "x": 162.89, "y": 101.02 }
+],
+"slots": [
+	{ "name": "donutDeathAnimation-10", "bone": "cloud", "attachment": "donutDeathAnimation-10" },
+	{ "name": "donutDeathAnimation-11", "bone": "cloud", "attachment": "donutDeathAnimation-11" },
+	{ "name": "donutDeathAnimation-12", "bone": "cloud", "attachment": "donutDeathAnimation-12" },
+	{ "name": "donutDeathAnimation-13", "bone": "cloud", "attachment": "donutDeathAnimation-13" },
+	{ "name": "donutDeathAnimation-14", "bone": "cloud", "attachment": "donutDeathAnimation-14" },
+	{ "name": "donutDeathAnimation-15", "bone": "cloud", "attachment": "donutDeathAnimation-15" },
+	{ "name": "donutDeathAnimation-16", "bone": "cloud", "attachment": "donutDeathAnimation-16" },
+	{ "name": "donutDeathAnimation-17", "bone": "cloud", "attachment": "donutDeathAnimation-17" },
+	{ "name": "donutDeathAnimation-18", "bone": "cloud", "attachment": "donutDeathAnimation-18" },
+	{ "name": "donutDeathAnimation-19", "bone": "cloud", "attachment": "donutDeathAnimation-19" },
+	{ "name": "donutDeathAnimation-2", "bone": "body", "attachment": "donutDeathAnimation-2" },
+	{ "name": "donutDeathAnimation-20", "bone": "cloud", "attachment": "donutDeathAnimation-20" },
+	{ "name": "donutDeathAnimation-3", "bone": "body", "attachment": "donutDeathAnimation-3" },
+	{ "name": "donutDeathAnimation-4", "bone": "cloud", "attachment": "donutDeathAnimation-4" },
+	{ "name": "donutDeathAnimation-5", "bone": "cloud", "attachment": "donutDeathAnimation-5" },
+	{ "name": "donutDeathAnimation-6", "bone": "cloud", "attachment": "donutDeathAnimation-6" },
+	{ "name": "donutDeathAnimation-7", "bone": "cloud", "attachment": "donutDeathAnimation-7" },
+	{ "name": "donutDeathAnimation-8", "bone": "cloud", "attachment": "donutDeathAnimation-8" },
+	{ "name": "donutDeathAnimation-9", "bone": "cloud", "attachment": "donutDeathAnimation-9" },
+	{ "name": "donutDeathAnimation-1", "bone": "body", "attachment": "donutDeathAnimation-1" }
+],
+  "skins": {
+    
+    "default": {
+      "donutDeathAnimation-1": {
+        "donutDeathAnimation-1": {
+          "x": 26.27,
+          "y": 0.95,
+          "rotation": 88.45,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "donutDeathAnimation-2": {
+        "donutDeathAnimation-2": {
+          "x": 26.27,
+          "y": 0.95,
+          "rotation": 88.45,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "donutDeathAnimation-3": {
+        "donutDeathAnimation-3": {
+          "x": 26.27,
+          "y": 0.95,
+          "rotation": 88.45,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "donutDeathAnimation-4": {
+        "donutDeathAnimation-4": {
+          "x": 0.44,
+          "y": 109.33,
+          "rotation": -66.17,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "donutDeathAnimation-5": {
+        "donutDeathAnimation-5": {
+          "x": 0.44,
+          "y": 109.33,
+          "rotation": -66.17,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "donutDeathAnimation-6": {
+        "donutDeathAnimation-6": {
+          "x": 0.44,
+          "y": 109.33,
+          "rotation": -66.17,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "donutDeathAnimation-7": {
+        "donutDeathAnimation-7": {
+          "x": 0.44,
+          "y": 109.33,
+          "rotation": -66.17,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "donutDeathAnimation-8": {
+        "donutDeathAnimation-8": {
+          "x": 0.44,
+          "y": 109.33,
+          "rotation": -66.17,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "donutDeathAnimation-9": {
+        "donutDeathAnimation-9": {
+          "x": 0.44,
+          "y": 109.33,
+          "rotation": -66.17,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "donutDeathAnimation-10": {
+        "donutDeathAnimation-10": {
+          "x": 0.44,
+          "y": 109.33,
+          "rotation": -66.17,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "donutDeathAnimation-11": {
+        "donutDeathAnimation-11": {
+          "x": 0.44,
+          "y": 109.33,
+          "rotation": -66.17,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "donutDeathAnimation-12": {
+        "donutDeathAnimation-12": {
+          "x": 0.44,
+          "y": 109.33,
+          "rotation": -66.17,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "donutDeathAnimation-13": {
+        "donutDeathAnimation-13": {
+          "x": 0.44,
+          "y": 109.33,
+          "rotation": -66.17,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "donutDeathAnimation-14": {
+        "donutDeathAnimation-14": {
+          "x": 0.44,
+          "y": 109.33,
+          "rotation": -66.17,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "donutDeathAnimation-15": {
+        "donutDeathAnimation-15": {
+          "x": 0.44,
+          "y": 109.33,
+          "rotation": -66.17,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "donutDeathAnimation-16": {
+        "donutDeathAnimation-16": {
+          "x": 0.44,
+          "y": 109.33,
+          "rotation": -66.17,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "donutDeathAnimation-17": {
+        "donutDeathAnimation-17": {
+          "x": 0.44,
+          "y": 109.33,
+          "rotation": -66.17,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "donutDeathAnimation-18": {
+        "donutDeathAnimation-18": {
+          "x": 0.44,
+          "y": 109.33,
+          "rotation": -66.17,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "donutDeathAnimation-19": {
+        "donutDeathAnimation-19": {
+          "x": 0.44,
+          "y": 109.33,
+          "rotation": -66.17,
+          "width": 138,
+          "height": 229
+        }
+      },
+      "donutDeathAnimation-20": {
+        "donutDeathAnimation-20": {
+          "x": 0.44,
+          "y": 109.33,
+          "rotation": -66.17,
+          "width": 138,
+          "height": 229
+        }
+      }
+    }
+  },
+"animations": {
+	"death": {
+		"slots": {
+			"donutDeathAnimation-1": {
+				"color": [
+					{ "time": 0.3, "color": "ffffffa5" },
+					{ "time": 0.5667, "color": "ffffff32" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.3, "name": "donutDeathAnimation-1" },
+					{ "time": 0.7, "name": null }
+				]
+			},
+			"donutDeathAnimation-2": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0333, "name": "donutDeathAnimation-2" },
+					{ "time": 0.0667, "name": null }
+				]
+			},
+			"donutDeathAnimation-3": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0667, "name": "donutDeathAnimation-3" },
+					{ "time": 0.1, "name": null }
+				]
+			},
+			"donutDeathAnimation-4": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.1, "name": "donutDeathAnimation-4" },
+					{ "time": 0.1333, "name": null }
+				]
+			},
+			"donutDeathAnimation-5": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.1333, "name": "donutDeathAnimation-5" },
+					{ "time": 0.1667, "name": null }
+				]
+			},
+			"donutDeathAnimation-6": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.1667, "name": "donutDeathAnimation-6" },
+					{ "time": 0.2, "name": null }
+				]
+			},
+			"donutDeathAnimation-7": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.2, "name": "donutDeathAnimation-7" },
+					{ "time": 0.2333, "name": null }
+				]
+			},
+			"donutDeathAnimation-8": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.2333, "name": "donutDeathAnimation-8" },
+					{ "time": 0.2667, "name": null }
+				]
+			},
+			"donutDeathAnimation-9": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.2667, "name": "donutDeathAnimation-9" },
+					{ "time": 0.3, "name": null }
+				]
+			},
+			"donutDeathAnimation-10": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.3, "name": "donutDeathAnimation-10" },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"donutDeathAnimation-11": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.3333, "name": "donutDeathAnimation-11" },
+					{ "time": 0.3667, "name": null }
+				]
+			},
+			"donutDeathAnimation-12": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.3667, "name": "donutDeathAnimation-12" },
+					{ "time": 0.4, "name": null }
+				]
+			},
+			"donutDeathAnimation-13": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.4, "name": "donutDeathAnimation-13" },
+					{ "time": 0.4333, "name": null }
+				]
+			},
+			"donutDeathAnimation-14": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.4333, "name": "donutDeathAnimation-14" },
+					{ "time": 0.4667, "name": null }
+				]
+			},
+			"donutDeathAnimation-15": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.4667, "name": "donutDeathAnimation-15" },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"donutDeathAnimation-16": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5, "name": "donutDeathAnimation-16" },
+					{ "time": 0.5333, "name": null }
+				]
+			},
+			"donutDeathAnimation-17": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5333, "name": "donutDeathAnimation-17" },
+					{ "time": 0.5667, "name": null }
+				]
+			},
+			"donutDeathAnimation-18": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5667, "name": "donutDeathAnimation-18" },
+					{ "time": 0.6, "name": null }
+				]
+			},
+			"donutDeathAnimation-19": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6, "name": "donutDeathAnimation-19" },
+					{ "time": 0.6333, "name": null }
+				]
+			},
+			"donutDeathAnimation-20": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.6333, "name": "donutDeathAnimation-20" },
+					{ "time": 0.6667, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"body": {
+				"translate": [
+					{ "time": 0.3, "x": -0.11, "y": 16.87 },
+					{ "time": 0.5667, "x": -0.22, "y": 33.75 }
+				]
+			}
+		}
+	},
+	"idle": {
+		"slots": {
+			"donutDeathAnimation-1": {
+				"color": [
+					{ "color": "ffffffff" },
+					{ "time": 1.6667, "color": "ffffffdb" },
+					{ "time": 3.3333, "color": "ffffffff" }
+				]
+			},
+			"donutDeathAnimation-2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"donutDeathAnimation-3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"donutDeathAnimation-4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"donutDeathAnimation-5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"donutDeathAnimation-6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"donutDeathAnimation-7": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"donutDeathAnimation-8": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"donutDeathAnimation-9": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"donutDeathAnimation-10": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"donutDeathAnimation-11": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"donutDeathAnimation-12": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"donutDeathAnimation-13": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"donutDeathAnimation-14": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"donutDeathAnimation-15": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"donutDeathAnimation-16": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"donutDeathAnimation-17": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"donutDeathAnimation-18": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"donutDeathAnimation-19": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"donutDeathAnimation-20": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"core": {
+				"translate": [
+					{},
+					{ "time": 1.6667, "y": 8.56 },
+					{ "time": 3.3333 }
+				]
+			}
+		}
+	}
+}
+}
